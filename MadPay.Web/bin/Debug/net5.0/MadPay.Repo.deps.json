@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MadPay.Repo/1.0.0": {
+        "dependencies": {
+          "MadPay.Common": "1.0.0"
+        },
+        "runtime": {
+          "MadPay.Repo.dll": {}
+        }
+      },
+      "MadPay.Common/1.0.0": {
+        "dependencies": {
+          "MadPay.Data": "1.0.0"
+        },
+        "runtime": {
+          "MadPay.Common.dll": {}
+        }
+      },
+      "MadPay.Data/1.0.0": {
+        "runtime": {
+          "MadPay.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MadPay.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MadPay.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MadPay.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

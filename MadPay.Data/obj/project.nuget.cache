@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3oR2r2PpL4DX0UfbKVEqld/CT9bBpO3OsJft/gjqbVUxxQHBo/Dx8xgboI3TbUsC/Rw1jZQ0nVlcSe8JLPh6rA==",
+  "success": true,
+  "projectFilePath": "F:\\ASP_Project\\Pay\\MadPayServer\\MadPay.Data\\MadPay.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

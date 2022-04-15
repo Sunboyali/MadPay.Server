@@ -1,0 +1,16 @@
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.exe
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.deps.json
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.runtimeconfig.json
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.runtimeconfig.dev.json
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.dll
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\ref\MadPay.Data.dll
+F:\ASP_Project\Pay\MadPay.Data\bin\Debug\net5.0\MadPay.Data.pdb
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.csproj.AssemblyReference.cache
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.AssemblyInfoInputs.cache
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.AssemblyInfo.cs
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.csproj.CoreCompileInputs.cache
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.dll
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\ref\MadPay.Data.dll
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.pdb
+F:\ASP_Project\Pay\MadPay.Data\obj\Debug\net5.0\MadPay.Data.genruntimeconfig.cache
